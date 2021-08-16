@@ -16,7 +16,7 @@ Kgotso		-
 
 ============ Instructions ============
 
--> Download codeIgniter 3
+-> Download codeIgniter 3-Kgotso
 -> Delete user guide 
 -> Add Page Routing
 -> Design --- Template UI (Bootstrap)
