@@ -9,7 +9,18 @@ Specification
 	=> 	User/Admin login
 	=> 	User CRUD operation	
 
-============
+ ===== Developers  =======
 Surence		-
 Innocent	- 
 Kgotso		- 
+
+============ Instructions ============
+
+-> Download codeIgniter 3
+-> Delete user guide 
+-> Add Page Routing
+-> Design --- Template UI (Bootstrap)
+-> Database connection
+-> 
+
+-> ADD something here
