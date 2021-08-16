@@ -23,7 +23,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = '';
+$config['base_url'] = 'https://localhost/codeigniterTeamProj';
 
 /*
 |--------------------------------------------------------------------------
@@ -221,7 +221,7 @@ $config['allow_get_array'] = TRUE;
 |
 | For a live site you'll usually only enable Errors (1) to be logged otherwise
 | your log files will fill up very fast.
-|
+|99
 */
 $config['log_threshold'] = 0;
 
