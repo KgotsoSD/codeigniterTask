@@ -1,0 +1,15 @@
+Project Name: Team Project
+Date: 16/08/21
+
+Specification
+================
+	=>	Database Structuring 
+	=>	Role Management System
+	=> 	User/Admin Registration
+	=> 	User/Admin login
+	=> 	User CRUD operation	
+
+============
+Surence		-
+Innocent	- 
+Kgotso		- 
