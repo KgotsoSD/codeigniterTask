@@ -16,8 +16,13 @@ Kgotso		-
 
 ============ Instructions ============
 
+<<<<<<< HEAD
 -> Download codeIgniter 3
 -> Delete user guide --surence
+=======
+-> Download codeIgniter 3-Kgotso
+-> Delete user guide 
+>>>>>>> 1f714cf97fd792b628160073f4ab3aabbd68d632
 -> Add Page Routing
 -> Design --- Template UI (Bootstrap)
 -> Database connection
